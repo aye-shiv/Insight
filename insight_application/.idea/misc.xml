@@ -3,11 +3,29 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Shiv/Documents/Productivity/UWI/Year 3/Year 3 Semester 2/INFO3604/insight_application/app/src/main/res/layout/activity_main.xml" value="0.14412360688956433" />
+        <entry key="..\:/Users/killj/AndroidStudioProjects/InSight/app/src/main/res/drawable/about_layout_background.xml" value="0.1325" />
+        <entry key="..\:/Users/killj/AndroidStudioProjects/InSight/app/src/main/res/drawable/backbtn.xml" value="0.1525" />
+        <entry key="..\:/Users/killj/AndroidStudioProjects/InSight/app/src/main/res/drawable/chatbubble.xml" value="0.12" />
+        <entry key="..\:/Users/killj/AndroidStudioProjects/InSight/app/src/main/res/drawable/home_layout_background.xml" value="0.159" />
+        <entry key="..\:/Users/killj/AndroidStudioProjects/InSight/app/src/main/res/drawable/layout_background.xml" value="0.1325" />
+        <entry key="..\:/Users/killj/AndroidStudioProjects/InSight/app/src/main/res/drawable/tab_indicator.xml" value="0.166" />
+        <entry key="..\:/Users/killj/AndroidStudioProjects/InSight/app/src/main/res/drawable/tab_selected_background.xml" value="0.166" />
+        <entry key="..\:/Users/killj/AndroidStudioProjects/InSight/app/src/main/res/drawable/translate_layout_background.xml" value="0.1325" />
+        <entry key="..\:/Users/killj/AndroidStudioProjects/InSight/app/src/main/res/layout/activity_dictionary.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/killj/AndroidStudioProjects/InSight/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/killj/AndroidStudioProjects/InSight/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/killj/AndroidStudioProjects/InSight/app/src/main/res/layout/copy_fragment_translate.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/killj/AndroidStudioProjects/InSight/app/src/main/res/layout/dictionary_row.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/killj/AndroidStudioProjects/InSight/app/src/main/res/layout/fragment_about.xml" value="0.1" />
+        <entry key="..\:/Users/killj/AndroidStudioProjects/InSight/app/src/main/res/layout/fragment_home.xml" value="0.14" />
+        <entry key="..\:/Users/killj/AndroidStudioProjects/InSight/app/src/main/res/layout/fragment_translate.xml" value="0.25" />
+        <entry key="..\:/Users/killj/AndroidStudioProjects/InSight/app/src/main/res/layout/fragment_translateCopy.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/killj/AndroidStudioProjects/InSight/app/src/main/res/layout/fragment_translate_copy.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/killj/AndroidStudioProjects/InSight/app/src/main/res/menu/menu_main.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

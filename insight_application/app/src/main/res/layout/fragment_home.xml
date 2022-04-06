@@ -1,22 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.home.HomeFragment">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center"
+    tools:context=".Home">
 
-    <TextView
-        android:id="@+id/text_home"
+    <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
-        android:layout_marginEnd="8dp"
-        android:textAlignment="center"
-        android:textSize="20sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-</androidx.constraintlayout.widget.ConstraintLayout>
+        android:layout_height="match_parent"
+        android:background="#7314A1"
+        >
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="350dp"
+            android:layout_height="350dp"
+            android:src="@drawable/logosmall"
+            android:scaleType="centerCrop"
+
+            android:layout_marginTop="55dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            />
+
+        <TextView
+            android:id="@+id/title_In"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="In"
+            android:textSize="60sp"
+            android:textColor="@color/white"
+
+            app:layout_constraintEnd_toStartOf="@+id/title_S"
+            app:layout_constraintTop_toTopOf="@+id/title_S"
+            app:layout_constraintBottom_toBottomOf="@+id/title_S"
+            />
+
+        <TextView
+            android:id="@+id/title_S"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="S"
+            android:textSize="60sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+
+            android:layout_marginEnd="19dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/logo"
+            />
+
+        <TextView
+            android:id="@+id/title_ight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ight"
+            android:textSize="60sp"
+            android:textColor="@color/white"
+
+            app:layout_constraintStart_toEndOf="@id/title_S"
+            app:layout_constraintTop_toTopOf="@+id/title_S"
+            app:layout_constraintBottom_toBottomOf="@+id/title_S"
+            />
+
+
+        <Button
+            android:id="@+id/shivButton"
+            android:background="#7314A1"
+
+            android:text="View Dictionary"
+
+            android:layout_marginBottom="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>
