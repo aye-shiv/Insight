@@ -17,4 +17,9 @@
 <a name="instructions"></a>
 ## Application Instructions
 <a name="references"></a>
+
 ## References
+- [TensorFlow Pose-Classification](https://www.tensorflow.org/lite/tutorials/pose_classification)
+- [TensorFlow Classification](https://www.tensorflow.org/tutorials/images/classification)
+- [TensorFlow Lite Image Classification](https://www.tensorflow.org/lite/examples/image_classification/overview)
+- [Android TensorFlowLite Quickstart](https://www.tensorflow.org/lite/guide/android)
