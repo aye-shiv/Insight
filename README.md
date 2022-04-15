@@ -2,7 +2,13 @@
 # Project Insight
 ## Project Description
 ## Table of Contents
-## Installation and running
+- [Features] - Features
+- [I+R] - Installation and Running
+- [Testing] - Testing
+- [Instructions] - Application Instructions
+- [References] - References
+## Features
+## Installation and Running
 ## Testing
 ## Application Instructions
 ## References
