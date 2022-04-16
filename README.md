@@ -25,10 +25,12 @@ We plan to tackle this problem by developing a mobile application which facilita
 <a name="i-r"></a>
 ## Installation and Running
 
+
 <a name="testing"></a>
 ## Testing
-### Unit Tests
-### Component Tests
+#### Sign Language Recognition Model Tests:
+#### Unit Tests:
+#### Component Tests:
 
 <a name="instructions"></a>
 ## Application Instructions
