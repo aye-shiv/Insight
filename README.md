@@ -35,7 +35,12 @@ We plan to tackle this problem by developing a mobile application which facilita
 <a name="instructions"></a>
 ## Application Instructions
 The application has three (3) main pages (Home, Translate and About respectively) which can be navigated through tags at the bottom of the app. 
-Upon launching the application you are brought to the homepage which contains a "View Dictionary" button which will bring you to the dictionary page which contains a list of all signs which are possible within the application. Through navigation to the "About" page you will be able to find a short project description as well as relevant information on the creators of the application. Finally, after navigating to the Translate page, you will be able to switch camera views through interacting with the left most button and turn on/off text-to-speech by toggling the button on the right. When a hand is detect by the main camera view all landmarks will be drawn onto the live video feed and any detected hand signs will be outputted. 
+
+Upon launching the application you are brought to the homepage which contains a "View Dictionary" button which will bring you to the dictionary page which contains a list of all signs which are possible within the application.
+
+Through navigation to the "About" page you will be able to find a short project description as well as relevant information on the creators of the application.
+
+Finally, after navigating to the Translate page, you will be able to switch camera views through interacting with the left most button and turn on/off text-to-speech by toggling the button on the right. When a hand is detect by the main camera view all landmarks will be drawn onto the live video feed and any detected hand signs will be outputted. 
 
 <a name="references"></a>
 ## References
