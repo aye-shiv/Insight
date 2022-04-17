@@ -16,7 +16,7 @@ You can view a video demonstration of the follow using this link: [Video Present
 ## Features
 - Real-Time tracking as most other solutions are reliant on a previously stored form of media.
 - Text–To-Speech capabilities which allow for greater accessibility as another form of output delivery.
-- Offline capability.
+- Offers offline capability.
 - Android support from as low as Android 7.0 Nougat.
 - Support for both front and back cameras as modern devices have more than 1 camera modules.
 - The ability to sign using single letters of the english alphabet.
