@@ -49,3 +49,4 @@ Finally, after navigating to the Translate page, you will be able to switch came
 - [TensorFlow Classification](https://www.tensorflow.org/tutorials/images/classification)
 - [TensorFlow Lite Image Classification](https://www.tensorflow.org/lite/examples/image_classification/overview)
 - [Android TensorFlowLite Quickstart](https://www.tensorflow.org/lite/guide/android)
+- [Android TensorFlowLite Documentation](https://www.tensorflow.org/lite/api_docs/java/org/tensorflow/lite/package-summary)
