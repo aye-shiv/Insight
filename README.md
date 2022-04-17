@@ -21,7 +21,7 @@ You can view a video demonstration Project Insight using this link: [Video Prese
 - Support for both front and back cameras as modern devices have more than 1 camera modules.
 - The ability to sign using single letters of the english alphabet.
 - An extensive dictionary that covers the entire alphabet to create words/phrases.
-- A recognition model using holistic hand landmarks to increase precision.
+- A recognition model using holistic hand landmarks to increase precision regardless of background.
 
 <a name="i-r"></a>
 ## Installation and Running
