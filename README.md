@@ -3,12 +3,14 @@
 Our project Insight addresses one of the main issues faced by the hearing impaired community; which is that there exists a large majority of the population who cannot understand sign language, and this puts a strain on their ability to communicate with each other.
 
 We plan to tackle this problem by developing a mobile application which facilitates image processing such that it can be used primarily by those who are not versed in sign language, so they can understand those who rely on sign language. 
+
+You can view a video demonstration of the follow using this link: [Video Presentation](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ## Table of Contents
 - [ Features ](#features)
 - [ Installation and Running ](#i-r)
 - [ Testing ](#testing)
 - [ Application Instructions ](#instructions)
-- [ References ](#references)
+- [ References ](#references) 
 
 <a name="features"></a>
 ## Features
