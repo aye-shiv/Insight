@@ -1,5 +1,4 @@
 [![headBanner](https://i.imgur.com/FrR9oGn.png)]()
-# Project Insight
 ## Project Description
 Our project Insight addresses one of the main issues faced by the hearing impaired community; which is that there exists a large majority of the population who cannot understand sign language, and this puts a strain on their ability to communicate with each other.
 
