@@ -27,6 +27,7 @@ You can view a video demonstration Project Insight using this link: [Video Prese
 
 <a name="i-r"></a>
 ## Installation and Running
+Check out the About page on the application for clarification on certain features!
 <a name="i-rAPK"></a>
 #### Installation/Running using APK
 Download the APK provided in the "Project Insight APK" folder and install it using a package installer of your choosing (I recommend [SAI](https://play.google.com/store/apps/details?id=com.aefyr.sai)). After completing this step you can launch the app and ensure you allow camera permissions.
