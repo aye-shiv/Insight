@@ -30,11 +30,11 @@ You can view a video demonstration Project Insight using this link: [Video Prese
 ## Installation and Running
 Check out the About page on the application for clarification on certain features!
 <a name="i-rAPK"></a>
-#### Installation/Running using APK
+#### Installation/Running using APK<br/>
 Download the APK provided in the "Project Insight APK" folder and install it using a package installer of your choosing (I recommend [SAI](https://play.google.com/store/apps/details?id=com.aefyr.sai)). After completing this step you can launch the app and ensure you allow camera permissions.
 
 <a name="i-rAAF"></a>
-#### Installation/Running using Android App Folder
+#### Installation/Running using Android App Folder<br/>
 Download the "Project Insight Android Application" directory and open the project in Android Studio. Using a previously set up emulated device or a connected android device you may run the application and all necessary files will be written to the user device and the app will be launched. Note: Ensure you allow camera permissions.
 
 ## Model Evaluation
