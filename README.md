@@ -8,7 +8,7 @@ You can view a video demonstration Project Insight using this link: [Video Prese
 ## Table of Contents
 - [ Features ](#features)
 - [ Installation and Running ](#i-r)
-- [ Testing ](#testing)
+- [ Evaluation & Testing ](#testing)
 - [ Application Instructions ](#instructions)
 - [ References ](#references) 
 
@@ -28,8 +28,8 @@ You can view a video demonstration Project Insight using this link: [Video Prese
 
 
 <a name="testing"></a>
-## Testing
-#### Sign Language Recognition Model Tests:
+## Evaluation & Testing
+#### Model Evaluations:
 #### Unit Tests:
 #### Component Tests:
 
