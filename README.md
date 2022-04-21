@@ -12,8 +12,7 @@ You can view a video demonstration Project Insight using this link: [Video Prese
   - [ Android App Folder ](#i-rAAF)
 - [ Evaluation & Testing ](#testing)
   - [ Model Evaluation ](#model-eval)
-  - [ Unit Tests ](#unit-tests)
-  - [ Component Tests ](#comp-tests)
+  - [ Tests ](#tests)
 - [ Application Instructions ](#instructions)
 - [ References ](#references) 
 
@@ -47,10 +46,8 @@ Note that training/testing data was all captured manually thus many improvements
 ##### Model Accuracy Plot:<br/>
 [![Model Accuracy](https://i.imgur.com/vVFU7DA.png)]()<br/>
 
-<a name="unit-tests"></a>
-#### Unit Tests:
-<a name="comp-tests"></a>
-#### Component Tests:
+<a name="tests"></a>
+#### Tests:
 
 <a name="instructions"></a>
 ## Application Instructions
