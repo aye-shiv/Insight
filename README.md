@@ -8,6 +8,8 @@ You can view a video demonstration Project Insight using this link: [Video Prese
 ## Table of Contents
 - [ Features ](#features)
 - [ Installation and Running ](#i-r)
+  - [ Using APK ](#i-rAPK)
+  - [ Android App Folder ](#i-rAAF)
 - [ Evaluation & Testing ](#testing)
 - [ Application Instructions ](#instructions)
 - [ References ](#references) 
@@ -25,7 +27,13 @@ You can view a video demonstration Project Insight using this link: [Video Prese
 
 <a name="i-r"></a>
 ## Installation and Running
+<a name="i-rAPK"></a>
+#### Installation/Running using APK
+Download the APK provided in the "Project Insight APK" folder and install it using a package installer of your choosing (I recommend [SAI](https://play.google.com/store/apps/details?id=com.aefyr.sai)). After completing this step you can launch the app and ensure you allow camera permissions.
 
+<a name="i-rAAF"></a>
+#### Installation/Running using Android App Folder
+Download the "Project Insight Android Application" directory and open the project in Android Studio. Using a previously set up emulated device or a connected android device you may run the application and all necessary files will be written to the user device and the app will be launched. Note: Ensure you allow camera permissions.
 
 <a name="testing"></a>
 ## Evaluation & Testing
@@ -39,7 +47,7 @@ The application has three (3) main pages (Home, Translate and About respectively
 
 Upon launching the application you are brought to the homepage which contains a "View Dictionary" button which will bring you to the dictionary page which contains a list of all signs which are possible within the application.
 
-Through navigation to the "About" page you will be able to find a short project description as well as relevant information on the creators of the application.
+Through navigation to the "About" page you will be able to find a short project description, a list of basic features and how they work as well as relevant information on the creators of the application.
 
 Finally, after navigating to the Translate page, you will be able to switch camera views through interacting with the left most button and turn on/off text-to-speech by toggling the button on the right. When a hand is detect by the main camera view all landmarks will be drawn onto the live video feed and any detected hand signs will be outputted. 
 
