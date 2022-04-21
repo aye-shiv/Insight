@@ -64,6 +64,7 @@ Finally, after navigating to the Translate page, you will be able to switch came
 
 <a name="references"></a>
 ## References
+- [Mediapipe](https://google.github.io/mediapipe/solutions/hands)
 - [TensorFlow Pose-Classification](https://www.tensorflow.org/lite/tutorials/pose_classification)
 - [TensorFlow Classification](https://www.tensorflow.org/tutorials/images/classification)
 - [TensorFlow Lite Image Classification](https://www.tensorflow.org/lite/examples/image_classification/overview)
