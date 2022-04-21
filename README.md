@@ -10,9 +10,8 @@ You can view a video demonstration Project Insight using this link: [Video Prese
 - [ Installation and Running ](#i-r)
   - [ Using APK ](#i-rAPK)
   - [ Android App Folder ](#i-rAAF)
-- [ Evaluation & Testing ](#testing)
-  - [ Model Evaluation ](#model-eval)
-  - [ Tests ](#tests)
+- [ Model ](#model)
+- [ Testing ](#testing)
 - [ Application Instructions ](#instructions)
 - [ References ](#references) 
 
@@ -38,16 +37,15 @@ Download the APK provided in the "Project Insight APK" folder and install it usi
 #### Installation/Running using Android App Folder
 Download the "Project Insight Android Application" directory and open the project in Android Studio. Using a previously set up emulated device or a connected android device you may run the application and all necessary files will be written to the user device and the app will be launched. Note: Ensure you allow camera permissions.
 
-<a name="testing"></a>
-## Evaluation & Testing
-<a name="model-eval"></a>
-#### Model Evaluations:
+## Model Evaluation
+<a name="model"></a>
+#### Model:
 Note that training/testing data was all captured manually thus many improvements can potentially be made with better hardware.<br/>
 ##### Model Accuracy Plot:<br/>
 [![Model Accuracy](https://i.imgur.com/vVFU7DA.png)]()<br/>
 
-<a name="tests"></a>
-#### Tests:
+<a name="testing"></a>
+## Testing:
 
 <a name="instructions"></a>
 ## Application Instructions
