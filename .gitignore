@@ -1,3 +1,5 @@
+.gitignore
+
 *.pdf
 *.docx
 
@@ -6,3 +8,4 @@ Model/.ipynb_checkpoints/
 Weekly Reports/
 Resources/
 Pre-Semester hijinks/
+*.tmp
