@@ -54,7 +54,7 @@ Note that training/testing data was all captured manually thus many improvements
 
 <a name="instructions"></a>
 ## Application Instructions
-The application has three (3) main pages (Home, Translate and About respectively) which can be navigated through tags at the bottom of the app. 
+The application has three (3) main pages (Home, Translate and About respectively) which can be navigated through the navigable tags at the bottom of the app. 
 
 Upon launching the application you are brought to the homepage which contains a "View Dictionary" button which will bring you to the dictionary page which contains a list of all signs which are possible within the application.
 
