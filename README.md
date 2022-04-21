@@ -11,6 +11,9 @@ You can view a video demonstration Project Insight using this link: [Video Prese
   - [ Using APK ](#i-rAPK)
   - [ Android App Folder ](#i-rAAF)
 - [ Evaluation & Testing ](#testing)
+  - [ Model Evaluation ](#model-eval)
+  - [ Unit Tests ](#unit-tests)
+  - [ Component Tests ](#comp-tests)
 - [ Application Instructions ](#instructions)
 - [ References ](#references) 
 
@@ -38,8 +41,11 @@ Download the "Project Insight Android Application" directory and open the projec
 
 <a name="testing"></a>
 ## Evaluation & Testing
+<a name="model-eval"></a>
 #### Model Evaluations:
+<a name="unit-tests"></a>
 #### Unit Tests:
+<a name="comp-tests"></a>
 #### Component Tests:
 
 <a name="instructions"></a>
