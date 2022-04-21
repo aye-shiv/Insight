@@ -43,6 +43,12 @@ Download the "Project Insight Android Application" directory and open the projec
 ## Evaluation & Testing
 <a name="model-eval"></a>
 #### Model Evaluations:
+Model Accuracy Plot:<br/>
+[![Model Accuracy](https://i.imgur.com/vVFU7DA.png)]()<br/>
+Confusion Matrix:<br/>
+[![Confusion Matrix ](https://i.imgur.com/I5oLl41.png)]()<br/>
+
+Note that training/testing data was all captured manually thus many improvements can potentially be made with better hardware.
 <a name="unit-tests"></a>
 #### Unit Tests:
 <a name="comp-tests"></a>
