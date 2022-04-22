@@ -24,6 +24,7 @@ We tackled this problem by developing a mobile application which facilitates ima
 - The ability to sign using single letters of the english alphabet.
 - An extensive dictionary that covers the entire alphabet to create words/phrases.
 - A recognition model using holistic hand landmarks to increase precision regardless of background.
+- Gesture editing to manipulate output.
 
 <a name="i-r"></a>
 ## Installation and Running
