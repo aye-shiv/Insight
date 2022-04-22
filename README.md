@@ -10,7 +10,6 @@ We tackled this problem by developing a mobile application which facilitates ima
   - [ Using APK ](#i-rAPK)
   - [ Android App Folder ](#i-rAAF)
 - [ Model ](#model)
-- [ Testing ](#testing)
 - [ Application Instructions ](#instructions)
 - [ References ](#references) 
 
@@ -43,9 +42,6 @@ Download the "Project Insight Android Application" directory and open the projec
 Note that training/testing data was all captured manually thus many improvements can potentially be made with better hardware.<br/>
 ##### Model Accuracy Plot:<br/>
 [![Model Accuracy](https://i.imgur.com/vVFU7DA.png)]()<br/>
-
-<a name="testing"></a>
-## Testing:
 
 <a name="instructions"></a>
 ## Application Instructions
