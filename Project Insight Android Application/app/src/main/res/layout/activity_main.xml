@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:id="@+id/main"
+    android:fitsSystemWindows="true"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabLayout"
+
+        android:background="@color/black"
+        android:fillViewport="true"
+
+        app:tabTextColor="#AAFFFFFF"
+        app:tabSelectedTextColor="#7314A1"
+        app:tabIndicatorColor="#7314A1"
+
+        app:tabMode="scrollable"
+        app:tabGravity="center"
+        app:tabIndicatorFullWidth="false"
+        app:tabRippleColor="@color/transparent"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/pages"
+
+        android:background="@drawable/layout_background"
+        android:clipChildren="true"
+        android:clipToPadding="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/tabLayout"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

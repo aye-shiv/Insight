@@ -1,11 +1,30 @@
 .gitignore
-
+*.tmp
 *.pdf
 *.docx
+*.iml
 
 Model/env/
 Model/.ipynb_checkpoints/
 Weekly Reports/
 Resources/
 Pre-Semester hijinks/
-*.tmp
+
+Project Insight Android Application/gradle/.tmp
+Project Insight Android Application/gradle/caches
+Project Insight Android Application/gradle/daemon
+Project Insight Android Application/gradle/jdks
+Project Insight Android Application/gradle/native
+Project Insight Android Application/gradle/wrapper/dists
+Project Insight Android Application/.gradle
+Project Insight Android Application/.idea/caches
+Project Insight Android Application/.idea/libraries
+Project Insight Android Application/.idea/modules.xml
+Project Insight Android Application/.idea/navEditor.xml
+Project Insight Android Application/.idea/assetWizardSettings.xml
+Project Insight Android Application/.DS_Store
+Project Insight Android Application/build
+Project Insight Android Application/captures
+Project Insight Android Application/.externalNativeBuild
+Project Insight Android Application/.cxx
+Project Insight Android Application/local.properties
