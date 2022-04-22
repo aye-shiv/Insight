@@ -35,7 +35,7 @@ Download the APK provided in the "Project Insight APK" folder and install it usi
 
 <a name="i-rAAF"></a>
 #### Installation/Running using Android App Folder<br/>
-Download the "Project Insight Android Application" directory and open the project in Android Studio. Using a previously set up emulated device or a connected android device you may run the application and all necessary files will be written to the user device and the app will be launched. Note: Ensure you allow camera permissions.
+Download the "Project Insight Android Application" directory and open the project in Android Studio. You may need to validate your gradle JDK configuration. Using a previously set up emulated device or a connected android device you may run the application and all necessary files will be written to the user device and the app will be launched. Note: Ensure you allow camera permissions.
 
 ## Model Evaluation
 <a name="model"></a>
