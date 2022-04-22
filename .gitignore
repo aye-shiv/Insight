@@ -10,21 +10,21 @@ Weekly Reports/
 Resources/
 Pre-Semester hijinks/
 
-Project Insight Android Application/gradle/.tmp
-Project Insight Android Application/gradle/caches
-Project Insight Android Application/gradle/daemon
-Project Insight Android Application/gradle/jdks
-Project Insight Android Application/gradle/native
-Project Insight Android Application/gradle/wrapper/dists
-Project Insight Android Application/.gradle
-Project Insight Android Application/.idea/caches
-Project Insight Android Application/.idea/libraries
-Project Insight Android Application/.idea/modules.xml
-Project Insight Android Application/.idea/navEditor.xml
-Project Insight Android Application/.idea/assetWizardSettings.xml
-Project Insight Android Application/.DS_Store
-Project Insight Android Application/build
-Project Insight Android Application/captures
-Project Insight Android Application/.externalNativeBuild
-Project Insight Android Application/.cxx
-Project Insight Android Application/local.properties
+Insight Android App/gradle/.tmp
+Insight Android App/gradle/caches
+Insight Android App/gradle/daemon
+Insight Android App/gradle/jdks
+Insight Android App/gradle/native
+Insight Android App/gradle/wrapper/dists
+Insight Android App/.gradle
+Insight Android App/.idea/caches
+Insight Android App/.idea/libraries
+Insight Android App/.idea/modules.xml
+Insight Android App/.idea/navEditor.xml
+Insight Android App/.idea/assetWizardSettings.xml
+Insight Android App/.DS_Store
+Insight Android App/build
+Insight Android App/captures
+Insight Android App/.externalNativeBuild
+Insight Android App/.cxx
+Insight Android App/local.properties
