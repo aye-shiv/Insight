@@ -1,17 +1,15 @@
-[![headBanner](https://i.imgur.com/FrR9oGn.png)]()
+[![headBanner](https://i.imgur.com/FrR9oGn.png)](https://github.com/aye-shiv/Insight)
 ## Project Description
 Our project Insight addresses one of the main issues faced by the hearing impaired community; which is that there exists a large majority of the population who cannot understand sign language, and this puts a strain on their ability to communicate with each other.
 
 We tackled this problem by developing a mobile application which facilitates image processing such that it can be used primarily by those who are not versed in sign language, so they can understand those who rely on sign language while learning more themselves. 
 
-You can view a video demonstration Project Insight using this link: [Video Presentation](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ## Table of Contents
 - [ Features ](#features)
 - [ Installation and Running ](#i-r)
   - [ Using APK ](#i-rAPK)
   - [ Android App Folder ](#i-rAAF)
 - [ Model ](#model)
-- [ Testing ](#testing)
 - [ Application Instructions ](#instructions)
 - [ References ](#references) 
 
@@ -25,6 +23,7 @@ You can view a video demonstration Project Insight using this link: [Video Prese
 - The ability to sign using single letters of the english alphabet.
 - An extensive dictionary that covers the entire alphabet to create words/phrases.
 - A recognition model using holistic hand landmarks to increase precision regardless of background.
+- Gesture editing to manipulate output.
 
 <a name="i-r"></a>
 ## Installation and Running
@@ -35,7 +34,7 @@ Download the APK provided in the "Project Insight APK" folder and install it usi
 
 <a name="i-rAAF"></a>
 #### Installation/Running using Android App Folder<br/>
-Download the "Project Insight Android Application" directory and open the project in Android Studio. You may need to validate your gradle JDK configuration. Using a previously set up emulated device or a connected android device you may run the application and all necessary files will be written to the user device and the app will be launched. Note: Ensure you allow camera permissions.
+Download the "Project Insight Android Application" directory and open the project in Android Studio. You may need to validate your gradle JDK configuration. Using a previously set up emulated device or a connected android device(I recommend a physical android device) you may run the application and all necessary files will be written to the user device and the app will be launched. Note: Ensure you allow camera permissions.
 
 ## Model Evaluation
 <a name="model"></a>
@@ -43,9 +42,6 @@ Download the "Project Insight Android Application" directory and open the projec
 Note that training/testing data was all captured manually thus many improvements can potentially be made with better hardware.<br/>
 ##### Model Accuracy Plot:<br/>
 [![Model Accuracy](https://i.imgur.com/vVFU7DA.png)]()<br/>
-
-<a name="testing"></a>
-## Testing:
 
 <a name="instructions"></a>
 ## Application Instructions
