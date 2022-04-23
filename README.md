@@ -51,7 +51,7 @@ Upon launching the application you are brought to the homepage which contains a 
 
 Through navigation to the "About" page you will be able to find a short project description, a list of basic features and how they work as well as relevant information on the creators of the application.
 
-Finally, after navigating to the Translate page, you will be able to switch camera views through interacting with the left most button and turn on/off text-to-speech by toggling the button on the right. When a hand is detect by the main camera view all landmarks will be drawn onto the live video feed and any detected hand signs will be outputted. 
+Finally, after navigating to the Translate page, you will be able to switch camera views through interacting with the left most button and turn on/off text-to-speech by toggling the button on the right. When a hand is detect by the main camera view all landmarks will be drawn onto the live video feed and any detected hand signs will be outputted. Pressing the middle button while a sign has been classified from the detected hand will append whatever is detected at the top to a dialog box. If there is nothing in the top box and the middle button is pressed (assuming the dialog box exists with a string) a space will be appended to the dialog box. You may swipe down on the dialog box to completely remove it or swipe up on it to remove the last character in it.
 
 <a name="references"></a>
 ## References
